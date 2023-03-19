@@ -16,3 +16,4 @@ Os comandos que eu usei são:
 7) Como saber o endereço ip: ifconfig (Linux)
 8) Site que foi clonado: http://www.facebook.com
 
+![Capturar](https://user-images.githubusercontent.com/75591457/226213762-beb40f7d-da8c-4b48-b326-94b4bcab1658.PNG)
